@@ -117,16 +117,16 @@
       <?php echo $_POST['skill']; ?>
 
       <h3><div class="form-item">Projects </div></h3>
-      <p>*Project1: <?php echo $_POST['Project1'];?>    *Description: <?php echo $_POST['description1'];?></p>
-      <p>*Project1: <?php echo $_POST['Project2'];?>    *Description: <?php echo $_POST['description2'];?></p>
-      <p>*Project1: <?php echo $_POST['Project3'];?>    *Description: <?php echo $_POST['description3'];?></p>
-      <p>*Project1: <?php echo $_POST['Project4'];?>    *Description: <?php echo $_POST['description4'];?></p>
-      <p>*Project1: <?php echo $_POST['Project5'];?>    *Description: <?php echo $_POST['description5'];?></p>
-      <p>*Project1: <?php echo $_POST['Project6'];?>    *Description: <?php echo $_POST['description6'];?></p>
-      <p>*Project1: <?php echo $_POST['Project7'];?>    *Description: <?php echo $_POST['description7'];?></p>
-      <p>*Project1: <?php echo $_POST['Project8'];?>    *Description: <?php echo $_POST['description8'];?></p>
-      <p>*Project1: <?php echo $_POST['Project9'];?>    *Description: <?php echo $_POST['description9'];?></p>
-      <p>*Project1: <?php echo $_POST['Project10'];?>    *Description: <?php echo $_POST['description10'];?></p>
+      <p>*Project1: <?php echo $_POST['Project1'];?>    *Skils and Tools used: <?php echo $_POST['description1'];?></p>
+      <p>*Project2: <?php echo $_POST['Project2'];?>    *Skils and Tools used: <?php echo $_POST['description2'];?></p>
+      <p>*Project3: <?php echo $_POST['Project3'];?>    *Skils and Tools used: <?php echo $_POST['description3'];?></p>
+      <p>*Project4: <?php echo $_POST['Project4'];?>    *Skils and Tools used: <?php echo $_POST['description4'];?></p>
+      <p>*Project5: <?php echo $_POST['Project5'];?>    *Skils and Tools used: <?php echo $_POST['description5'];?></p>
+      <p>*Project6: <?php echo $_POST['Project6'];?>    *Skils and Tools used: <?php echo $_POST['description6'];?></p>
+      <p>*Project7: <?php echo $_POST['Project7'];?>    *Skils and Tools used: <?php echo $_POST['description7'];?></p>
+      <p>*Project8: <?php echo $_POST['Project8'];?>    *Skils and Tools used: <?php echo $_POST['description8'];?></p>
+      <p>*Project9: <?php echo $_POST['Project9'];?>    *Skils and Tools used: <?php echo $_POST['description9'];?></p>
+      <p>*Project10: <?php echo $_POST['Project10'];?>    *Skils and Tools used: <?php echo $_POST['description10'];?></p>
 
       <h3><div class="form-item">Expiriences and Internships</div></h3>
       <?php echo $_POST['expirience']; ?>
